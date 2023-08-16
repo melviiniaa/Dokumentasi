@@ -1,0 +1,16 @@
+# Telegram-Dekstop
+
+![1](https://github.com/melviiniaa/Dokumentasi/assets/140376618/cc18e112-88a5-4208-a9ec-738dbd6ed288)
+![2 1](https://github.com/melviiniaa/Dokumentasi/assets/140376618/957c8664-10b8-44d1-bdfd-96016c658940)
+![3](https://github.com/melviiniaa/Dokumentasi/assets/140376618/881eb81e-31ec-4eac-8c1f-6a3c10a25b2c)
+![4 1](https://github.com/melviiniaa/Dokumentasi/assets/140376618/5a95c22b-c3a9-4908-b575-7ee979bd5ceb)
+![5 1](https://github.com/melviiniaa/Dokumentasi/assets/140376618/3892c521-42dc-4bf6-98da-fbe6921b151b)
+![6 1](https://github.com/melviiniaa/Dokumentasi/assets/140376618/e5da8d0e-ead6-4179-9a68-be866bf495a5)
+![7 1](https://github.com/melviiniaa/Dokumentasi/assets/140376618/c13abbb4-015c-43cc-89a7-cc60727250ea)
+![8 1](https://github.com/melviiniaa/Dokumentasi/assets/140376618/be8e93a8-44ad-4664-b6c9-f61d145c1dbd)
+![9](https://github.com/melviiniaa/Dokumentasi/assets/140376618/ad552cb1-50d9-4ac6-9326-757a8ab148ce)
+![10](https://github.com/melviiniaa/Dokumentasi/assets/140376618/b92d9b03-5774-4ad6-85e4-8167a254fbd3)
+![11](https://github.com/melviiniaa/Dokumentasi/assets/140376618/8025c8fe-08ab-4d0b-9266-38e300bedf2e)
+![12](https://github.com/melviiniaa/Dokumentasi/assets/140376618/c818b05e-df37-4d1d-b6a8-a6dcf92b3be3)
+![13](https://github.com/melviiniaa/Dokumentasi/assets/140376618/3054eea9-9b36-440f-82fc-38c87b78c3d4)
+![14](https://github.com/melviiniaa/Dokumentasi/assets/140376618/d9b9ab66-1856-4b98-adec-d0aee7e5be4d)
