@@ -83,6 +83,6 @@ Jika sudah memilih yang mana yang akan anda pakai maka scroll ke bawah dan click
 
 ![Alt text](gambar/github10.png.jpg)
 
-9. Jika anda memilih yang gratis maka tunggu beberapa saat sampai tampilan halaman utama GitHub terbuka, seperti pada gambar di bawah ini.
+9. Jika anda memilih yang gratis maka tunggu beberapa saat sampai tampilan halaman utama GitHub terbuka seperti pada gambar di bawah ini, dan GitHub siap digunakan.
 
 ![Alt text](gambar/github11.png.jpg)
