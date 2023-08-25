@@ -2,6 +2,18 @@
 ------------------------
 
 ## Daftar Judul
+1. Daftar Isi
+2. Persiapan Awal
+3. Apa itu GitLab?
+4. Fitur dan fungsinya
+5. Cara Login GitLab
+   - **Registrasi dan Login GitLab**
+   - Masuk ke beranda situs gitlab
+   - Masuk ke halaman pendaftaran
+   - Lengkapi data pendaftaran
+   - Verifikasi dengan cek inbox email
+
+## Daftar Isi
 Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
 1. Ikhtisar
 1. Daftar Judul
@@ -10,7 +22,6 @@ Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
 1. Masuk ke halaman pendaftaran
 1. Lengkapi data pendaftaran
 1. Verifikasi dengan cek inbox email
-1. Login akun baru
 
 ## Persiapan awal
 - Email aktif<br>
@@ -26,8 +37,7 @@ Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
 ## Lengkapi data pendaftaran
 ...
 ## Verifikasi dengan cek inbox email
-...
-## Login akun baru
+
 
 ## Apa itu GitLab?
 Sebelumnya apakah Anda tahu apa itu GitLab? GitLab adalah layanan yang menyediakan akses remote ke Git repositories. Selain meng-hosting kode Anda, layanan ini menyediakan fitur tambahan yang dirancang untuk membantu mengelola siklus pengembangan software. Git adalah sebuah tools yang berfungsi untuk memudahkan para developer. Disini Saya akan menjelaskan tata cara pembuatan akun GitLab.
@@ -43,7 +53,7 @@ Dengan menggunakan GitLab, Anda akan mendapatkan alur manajemen git-repository y
 * **Integrated Monitoring** – mengumpulkan semua pengukuran kinerja untuk aplikasi dan server yang membantu pengguna menentukan efek dari sistem produksi. 
 
 
-## Cara Menggunakan Gitlab
+## Cara Login Gitlab
 Apakah Anda tertarik untuk mencoba platform ini? Jika iya, maka kami sarankan untuk memahami langkah-langkahnya terlebih dahulu. Mulai dari menginstal, melakukan registrasi, hingga implementasinya pada pengembangan web. Simak caranya di bawah ini:
 
 * Registrasi dan Login GitLab
