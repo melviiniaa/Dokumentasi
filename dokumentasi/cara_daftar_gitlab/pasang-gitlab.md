@@ -1,19 +1,19 @@
 # **PEMBUATAN AKUN GITLAB**
 ------------------------
 
-## Daftar Judul
+### Daftar Judul
 1. Daftar Isi
 2. Persiapan Awal
 3. Apa itu GitLab?
 4. Fitur dan fungsinya
-5. Cara Login GitLab
-   - **Registrasi dan Login GitLab**
+5. Cara Login GitLab <br>
+    **Registrasi dan Login GitLab**
    - Masuk ke beranda situs gitlab
    - Masuk ke halaman pendaftaran
    - Lengkapi data pendaftaran
    - Verifikasi dengan cek inbox email
 
-## Daftar Isi
+### Daftar Isi
 Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
 1. Ikhtisar
 1. Daftar Judul
@@ -23,20 +23,20 @@ Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
 1. Lengkapi data pendaftaran
 1. Verifikasi dengan cek inbox email
 
-## Persiapan awal
+### Persiapan awal
 - Email aktif<br>
   Untuk mendaftar gitlab diperlukan email aktif untuk aktifasi akun.
 - Data Diri
 - Username unik baru
 - Password baru
 
-## Masuk ke beranda situs gitlab
+#### Masuk ke beranda situs gitlab
 ...
-## Masuk ke halaman pendaftaran
+#### Masuk ke halaman pendaftaran
 ...
-## Lengkapi data pendaftaran
+#### Lengkapi data pendaftaran
 ...
-## Verifikasi dengan cek inbox email
+#### Verifikasi dengan cek inbox email
 
 
 ## Apa itu GitLab?
