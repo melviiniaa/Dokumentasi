@@ -1,8 +1,0 @@
-Cara Install dan Login Telegram Desktop
-Cara Daftar GitLab
-Cara Daftar GitHub
-Cara Install GitHub Desktop
-Cara Install WPS Office
-Cara memindah File dari WPS ke Spreadsheet nya Google
-Cara Install Vscode
-Cara Install Vscodim
