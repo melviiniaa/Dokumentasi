@@ -1,5 +1,44 @@
-# **CARA INSTALL APLIKASI GITHUB DESKTOP**
+# **INSTALL APLIKASI GITHUB DESKTOP**
 -------------------------------------------
+
+### Daftar Judul
+1. Daftar Isi
+2. Persiapan Awal
+3. Apa itu GitHub Desktop?
+4. Kelebihan dan Kekurangan dari GitHub Desktop
+5. Cara Install GitHub Desktop di laptop <br>
+   - Masuk ke beranda situs Download GitHub Desktop
+   - Download Github Desktop
+   - Ikuti dan Lengkapi data persyaratan pendaftaran
+
+### Daftar Isi
+Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
+1. Ikhtisar
+1. Daftar Judul
+1. Persiapan Awal
+1. Masuk ke beranda situs github desktop
+1. download github desktop
+1. Ikuti dan Lengkapi data persyaratan pendaftaran
+   
+
+### Persiapan awal
+- Jaringan Lancar<br>
+  Untuk mendownload GitHub Desktop diperlukan Jaringan yang lancar dan cepat.
+- Email<br>
+  Untuk masuk/mendaftar GitHub Desktop diperlukan email aktif untuk kesenjangan akun.
+- Password baru
+- Mengikuti Persyaratan akun sebelum masuk.
+- Username unik baru
+
+
+####  Masuk ke beranda situs github desktop
+...
+#### download github desktop
+...
+#### Ikuti dan Lengkapi data persyaratan pendaftaran
+
+
+
 
 ## Apa itu GitHub Desktop
 Deskop Github adalah aplikasi buatan github yang berfungsi untuk mempermudah menggguna untuk upload file dan project.
