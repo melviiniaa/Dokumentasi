@@ -1,6 +1,34 @@
 # **PEMBUATAN AKUN GITLAB**
 ------------------------
 
+## Daftar Judul
+Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
+1. Ikhtisar
+1. Daftar Judul
+1. Persiapan Awal
+1. Masuk ke beranda situs gitlab
+1. Masuk ke halaman pendaftaran
+1. Lengkapi data pendaftaran
+1. Verifikasi dengan cek inbox email
+1. Login akun baru
+
+## Persiapan awal
+- Email aktif<br>
+  Untuk mendaftar gitlab diperlukan email aktif untuk aktifasi akun.
+- Data Diri
+- Username unik baru
+- Password baru
+
+## Masuk ke beranda situs gitlab
+...
+## Masuk ke halaman pendaftaran
+...
+## Lengkapi data pendaftaran
+...
+## Verifikasi dengan cek inbox email
+...
+## Login akun baru
+
 ## Apa itu GitLab?
 Sebelumnya apakah Anda tahu apa itu GitLab? GitLab adalah layanan yang menyediakan akses remote ke Git repositories. Selain meng-hosting kode Anda, layanan ini menyediakan fitur tambahan yang dirancang untuk membantu mengelola siklus pengembangan software. Git adalah sebuah tools yang berfungsi untuk memudahkan para developer. Disini Saya akan menjelaskan tata cara pembuatan akun GitLab.
 
@@ -61,4 +89,3 @@ Click **Ok,let's go**
 
 ![Alt text](gambar/halaman-utama-gitlab.png.png)
 
-#        ---------------------- **TERIMA KASIH DAN, SELAMAT MENCOBA**----------------------
