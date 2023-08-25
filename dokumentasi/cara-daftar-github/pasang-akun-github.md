@@ -1,6 +1,48 @@
 # **PASANG AKUN GITHUB**
 ------------------------
 
+### Daftar Judul
+1. Daftar Isi
+2. Persiapan Awal
+3. Apa itu GitHub?
+4. Istilah dalam Github
+5. Cara Membuat akun GitHub <br>
+   - Masuk ke beranda situs github
+   - Masuk ke halaman pendaftaran
+   - Verifikasi dengan cek inbox email
+   - Ikuti dan Lengkapi data persyaratan pendaftaran
+   
+
+### Daftar Isi
+Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
+1. Ikhtisar
+1. Daftar Judul
+1. Persiapan Awal
+1. Masuk ke beranda situs github
+1. Masuk ke halaman pendaftaran
+1. Verifikasi dengan cek inbox email
+1. Ikuti dan Lengkapi data persyaratan pendaftaran
+
+
+### Persiapan awal
+- Jaringan<br>
+  Untuk mendaftar github diperlukan Jaringan yang stabil/lancar.
+- Email aktif<br>
+  Untuk mendaftar github diperlukan email aktif untuk aktifasi akun.
+- Data Diri
+- Username unik baru
+
+#### Masuk ke beranda situs github
+...
+#### Masuk ke halaman pendaftaran
+...
+#### Verifikasi dengan cek inbox email
+...
+#### Ikuti dan Lengkapi data persyaratan pendaftaran
+
+
+
+
 ## Apa itu GitHub?
 
 Kaliini saya akan mengajarkan kepada Anda cara membuat akun pribadi gratis pada GitHub. Tapi sebelum itu, apakah anda tau apa itu GitHub dan untuk apa Github? GitHub adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya.
