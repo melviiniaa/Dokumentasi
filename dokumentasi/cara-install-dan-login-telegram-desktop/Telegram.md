@@ -15,7 +15,6 @@
 
 ### Daftar Isi
 Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
-1. Ikhtisar
 1. Daftar Judul
 1. Persiapan Awal
 1. Masuk ke beranda situs Download Telegram Desktop
