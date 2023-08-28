@@ -5,12 +5,11 @@
 ### Daftar Judul
 1. Daftar Isi
 2. Persiapan Awal.
-3. Apa itu GitHub Desktop?
-4. Bagaimana cara memindahkan File WPS ke Spreadsheet Google?
-5. Fungsinya Spreadsheet apasih, dan apa bedanya sama Microsoft Excel?
-6. Kelebihan Spreadsheet Google.
-7. Kekurangan Spreadsheet Google.
-8. Cara memindahkan File dari WPS ke Spreadsheet.<br>
+3. Bagaimana cara memindahkan File WPS ke Spreadsheet Google?
+4. Fungsinya Spreadsheet apasih, dan apa bedanya sama Microsoft Excel?
+5. Kelebihan Spreadsheet Google.
+6. Kekurangan Spreadsheet Google.
+7. Cara memindahkan File dari WPS ke Spreadsheet.<br>
    - Masuk ke Aplikasi WPS Office.
    - Simpan/Download File yang ingin kamu pindahkan ke Spreadsheet.
    - Tambahkan File yang kamu download tadi ke Google Drive.
