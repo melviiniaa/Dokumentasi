@@ -1,4 +1,37 @@
 # **CARA INSTALL CODIUM ATAU VSCODIUM**
+----------------------------------------
+
+
+### Daftar Judul
+1. Daftar Isi
+2. Persiapan Awal
+3. Apa itu Vscodium? 
+4. Bagaimana cara Menginstallnya?
+   - Masuk ke beranda situs Download Vscodium
+   - Download sesuai versi yang di butuhkan
+   - Tunggu sampai proses pendownload-an selesai
+
+   
+
+### Daftar Isi
+Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
+1. Daftar Judul
+1. Persiapan Awal
+1. Masuk ke beranda situs Download Vscodium
+1. Download sesuai versi yang di butuhkan
+1. Tunggu sampai proses pendownload-an selesai
+
+
+### Persiapan awal
+- Jaringan stabil<br>
+  Untuk mendownload Vscodium diperlukan Jaringan yang stabil.
+
+#### Masuk ke beranda situs Download Vscodium
+...
+#### Download sesuai versi yang di butuhkan
+...
+#### Tunggu sampai proses pendownload-an selesai
+
 
 ## Apa itu Vscodium? 
 
