@@ -1,4 +1,42 @@
-# **CARA MENGINSTALL APLIKASI VSCODE ATAU VISUAL STUDIO CODE**
+# **INSTALL APLIKASI VSCODE ATAU VISUAL STUDIO CODE**
+-----------------------------------------------------
+
+
+### Daftar Judul
+1. Daftar Isi
+2. Persiapan Awal
+3. Apa itu vscode atau visual studio code?
+4. Jenis-jenis Visual Studio.
+5. Fitur Visual Studio Code.
+6. Keunggulan Visual Studio Code.
+7. Cara Install Visual Studio Code
+    **Install Vscode**
+   - Masuk ke beranda situs Download Vscode
+   - Download sesuai versi yang di butuhkan
+   - Tunggu sampai proses pendownload-an selesai
+8. Ikhtisar
+   
+
+### Daftar Isi
+Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
+1. Daftar Judul
+1. Persiapan Awal
+1. Masuk ke beranda situs Download Vscode
+1. Download sesuai versi yang di butuhkan
+1. Tunggu sampai proses pendownload-an selesai
+
+
+### Persiapan awal
+- Jaringan stabil<br>
+  Untuk mendownload Vscode diperlukan Jaringan yang stabil.
+
+#### Masuk ke beranda situs Download Vscode
+...
+#### Download sesuai versi yang di butuhkan
+...
+#### Tunggu sampai proses pendownload-an selesai
+
+
 
 Istilah code editor mungkin terdengar tidak asing bagi kamu yang bergelut di bidang IT khususnya application developer. Sayangnya, kebanyakan code editor minim fitur sehingga membutuhkan beberapa aplikasi tambahan. Nah, jika kamu mencari editor berfitur lengkap serta mendukung banyak bahasa pemrograman, Visual Studio Code adalah solusinya.
 
