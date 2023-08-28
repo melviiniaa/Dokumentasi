@@ -1,4 +1,53 @@
 # **CARA MENGINSTALL WPS OFFICE**
+---------------------------------
+
+### Daftar Judul
+1. Daftar Isi
+2. Persiapan Awal
+3. Apa itu WPS Office?
+4. Keunggulan dan Kelemahan aplikasi WPS Office.
+5. Cara Install WPS Office Desktop. <br>
+   - Masuk ke beranda situs Download WPS Office
+   - Download WPS Office
+   - Tunggu hingga pendownload-an selesai.
+6. Cara Login Aplikasi WPS Office. <br>
+   - Click Sign in.
+   - Pilih Login/masuk antara Google, Email, atau Facebook.
+   - Pilih akun, dan masuk.
+   
+
+### Daftar Isi
+Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
+1. Daftar Judul
+1. Persiapan Awal
+1. Masuk ke beranda situs Download WPS Office
+1. Download WPS Office
+1. Tunggu hingga pendownload-an selesai.
+1. Click Sign in.
+1. Pilih Login/masuk antara Google, Email, atau Facebook.
+1. Pilih akun, dan masuk.
+
+
+### Persiapan awal
+- Jaringan stabil<br>
+  Untuk mendownload dan mendaftar akun WPS Office diperlukan Jaringan yang stabil.
+- Akun aktif<br>
+  Untuk mendaftar akun WPS Office diperlukan akun/email yang aktif.
+- Ikuti dan Lengkapi data Pendaftaran
+
+####  Masuk ke beranda situs Download WPS Office.
+...
+#### Download WPS Office.
+...
+#### Tunggu hingga pendownload-an selesai.
+...
+####  Click Sign in.
+...
+####  Pilih Login/masuk antara Google, Email, atau Facebook.
+...
+####  Pilih akun, dan masuk.
+
+
 
 ## Apa itu WPS Office?
 
@@ -32,8 +81,7 @@ WPS Office merupakan sebuah aplikasi multifungsi. Tidak dapat dipakai untuk memb
 
   ## Cara Install WPS Office Desktop
 
- 1.  Buka Google Chrome ketik 'download wps office' atau click situs [WPS.Office](https://www.wps.com/id-ID/download/) maka akan muncul
-     halaman seperti gambar dibawah ini,
+ 1.  Buka Google Chrome ketik 'download wps office' atau click situs [WPS.Office](https://www.wps.com/id-ID/download/) maka akan muncul halaman seperti gambar dibawah ini,
 
 ![Alt text](gambar/wps2.jpg)
 
