@@ -8,7 +8,6 @@
     **Install dan Login Telegram**
    - Masuk ke beranda situs Download Telegram Desktop
    - Download sesuai versi yang di butuhkan
-   - Masuk ke beranda situs Download Telegram Desktop
    - Masuk menggunakan QR/No Handphone
    - Lengkapi data pendaftaran
    
@@ -24,10 +23,11 @@ Untuk mendaftar github diperlukan beberapa tahap sebagai berikut :
 
 
 ### Persiapan awal
-- Jaringan cepat<br>
-  Untuk mendaftar Telegram diperlukan No Handphone aktif untuk masuk/login.
+- Jaringan stabil<br>
+  Untuk mendownload/mendaftar Telegram Desktop diperlukan Jaringan yang stabil.
+- No Handhphone
 - kode OTP
-- Username
+- Username/id
 
 #### Masuk ke beranda situs Download Telegram Dekstop
 ...
